@@ -4,6 +4,7 @@
             "id": 1,
             "titulo": "Curso de Javascript",
             "categoria": "Javascript Basico",
+            "descripcion": "Este curso aprenderas la logica de programacion",
             "imagen": "https://i.ytimg.com/vi/bE7tO5lcg0Q/hqdefault.jpg",
             "video": "https://www.youtube.com/watch?v=bE7tO5lcg0Q",
             "favorito": false
@@ -11,8 +12,9 @@
 
         {
             "id": 2,
-            "titulo": "Curso de Javascript",
-            "categoria": "Javascript Basico",
+            "titulo": "Logica de Programación",
+            "categoria": "Logica de Programación",
+            "descripcion": "Este curso aprenderas la logica de programacion",
             "imagen": "https://i.ytimg.com/vi/bE7tO5lcg0Q/hqdefault.jpg",
             "video": "https://www.youtube.com/watch?v=bE7tO5lcg0Q",
             "favorito": false
@@ -22,6 +24,7 @@
             "id": 3,
             "titulo": "Curso de Javascript",
             "categoria": "Javascript Basico",
+            "descripcion": "Este curso aprenderas la logica de programacion",
             "imagen": "https://i.ytimg.com/vi/bE7tO5lcg0Q/hqdefault.jpg",
             "video": "https://www.youtube.com/watch?v=bE7tO5lcg0Q",
             "favorito": false
@@ -29,8 +32,9 @@
 
         {
             "id": 4,
-            "titulo": "Curso de Javascript",
-            "categoria": "Javascript Basico",
+            "titulo": "Logica de Programación",
+            "categoria": "Logica de Programación",
+            "descripcion": "Este curso aprenderas la logica de programacion",
             "imagen": "https://i.ytimg.com/vi/bE7tO5lcg0Q/hqdefault.jpg",
             "video": "https://www.youtube.com/watch?v=bE7tO5lcg0Q",
             "favorito": false
@@ -40,14 +44,16 @@
             "id": 5,
             "titulo": "Curso de Javascript",
             "categoria": "Javascript Basico",
+            "descripcion": "Este curso aprenderas la logica de programacion",
             "imagen": "https://i.ytimg.com/vi/bE7tO5lcg0Q/hqdefault.jpg",
             "video": "https://www.youtube.com/watch?v=bE7tO5lcg0Q",
             "favorito": false
         },
         {
             "id": 6,
-            "titulo": "Curso de Javascript",
-            "categoria": "Javascript Basico",
+            "titulo": "Logica de Programación",
+            "categoria": "Logica de Programación",
+            "descripcion": "Este curso aprenderas la logica de programacion",
             "imagen": "https://i.ytimg.com/vi/bE7tO5lcg0Q/hqdefault.jpg",
             "video": "https://www.youtube.com/watch?v=bE7tO5lcg0Q",
             "favorito": false
