@@ -4,18 +4,18 @@
             "id": 1,
             "titulo": "Curso de Javascript",
             "categoria": "Javascript Basico",
-            "descripcion": "Este curso aprenderas la logica de programacion",
+            "descripcion": "En esta clase, nos sumergiremos en el fascinante mundo de los operadores en JavaScript",
             "imagen": "https://i.ytimg.com/vi/bE7tO5lcg0Q/hqdefault.jpg",
-            "video": "https://www.youtube.com/watch?v=bE7tO5lcg0Q",
+            "video": "https://www.youtube.com/watch?v=D2Sp3gM2nNo&t=6s",
             "favorito": false
         },
 
         {
             "id": 2,
-            "titulo": "Logica de Programación",
-            "categoria": "Logica de Programación",
-            "descripcion": "Este curso aprenderas la logica de programacion",
-            "imagen": "https://i.ytimg.com/vi/bE7tO5lcg0Q/hqdefault.jpg",
+            "titulo": "Operadores aritméticos, de comparación y de lógicos.",
+            "categoria": "Javascript Basico",
+            "descripcion": "En esta clase, nos sumergiremos en los operadores aritmeticos de comparación y lógico, en JavaScript",
+            "imagen": "https://i.ytimg.com/vi/kugnuKUIFR4/maxresdefault.jpg",
             "video": "https://www.youtube.com/watch?v=bE7tO5lcg0Q",
             "favorito": false
         },
@@ -26,7 +26,7 @@
             "categoria": "Javascript Basico",
             "descripcion": "Este curso aprenderas la logica de programacion",
             "imagen": "https://i.ytimg.com/vi/bE7tO5lcg0Q/hqdefault.jpg",
-            "video": "https://www.youtube.com/watch?v=bE7tO5lcg0Q",
+            "video": "https://www.youtube.com/watch?v=7BMtT8gLjiE&list=PL1sZAh2_s8OTeesWlY1u4-HbrprHvX6H-&index=7",
             "favorito": false
         },
 
@@ -36,7 +36,7 @@
             "categoria": "Logica de Programación",
             "descripcion": "Este curso aprenderas la logica de programacion",
             "imagen": "https://i.ytimg.com/vi/bE7tO5lcg0Q/hqdefault.jpg",
-            "video": "https://www.youtube.com/watch?v=bE7tO5lcg0Q",
+            "video": "https://www.youtube.com/watch?v=YAsHOYJ0Huk&list=PL1sZAh2_s8OTeesWlY1u4-HbrprHvX6H-&index=6",
             "favorito": false
         },
 
@@ -46,7 +46,7 @@
             "categoria": "Javascript Basico",
             "descripcion": "Este curso aprenderas la logica de programacion",
             "imagen": "https://i.ytimg.com/vi/bE7tO5lcg0Q/hqdefault.jpg",
-            "video": "https://www.youtube.com/watch?v=bE7tO5lcg0Q",
+            "video": "https://www.youtube.com/watch?v=W3jgot4IvY4&list=PL1sZAh2_s8OTeesWlY1u4-HbrprHvX6H-&index=5",
             "favorito": false
         },
         {
@@ -55,7 +55,7 @@
             "categoria": "Logica de Programación",
             "descripcion": "Este curso aprenderas la logica de programacion",
             "imagen": "https://i.ytimg.com/vi/bE7tO5lcg0Q/hqdefault.jpg",
-            "video": "https://www.youtube.com/watch?v=bE7tO5lcg0Q",
+            "video": "https://www.youtube.com/watch?v=B8-LO1PPb5U&list=PL1sZAh2_s8OTeesWlY1u4-HbrprHvX6H-&index=4",
             "favorito": false
         },
         {
@@ -63,8 +63,8 @@
             "titulo": "Logica de Programación",
             "categoria": "Logica de Programación",
             "descripcion": "Este curso aprenderas la logica de programacion",
-            "imagen": "https://i.ytimg.com/vi/bE7tO5lcg0Q/hqdefault.jpg",
-            "video": "https://www.youtube.com/watch?v=bE7tO5lcg0Q",
+            "imagen": "https://i.ytimg.com/vi/qk70VzoPJBw/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=qk70VzoPJBw&list=PL1sZAh2_s8OTeesWlY1u4-HbrprHvX6H-&index=3",
             "favorito": false
         },
 
@@ -74,7 +74,7 @@
             "categoria": "Javascript Basico",
             "descripcion": "Este curso aprenderas la logica de programacion",
             "imagen": "https://i.ytimg.com/vi/bE7tO5lcg0Q/hqdefault.jpg",
-            "video": "https://www.youtube.com/watch?v=bE7tO5lcg0Q",
+            "video": "https://www.youtube.com/watch?v=bE7tO5lcg0Q&list=PL1sZAh2_s8OTeesWlY1u4-HbrprHvX6H-&index=1",
             "favorito": false
         },
         {
@@ -82,8 +82,8 @@
             "titulo": "Logica de Programación",
             "categoria": "Logica de Programación",
             "descripcion": "Este curso aprenderas la logica de programacion",
-            "imagen": "https://i.ytimg.com/vi/bE7tO5lcg0Q/hqdefault.jpg",
-            "video": "https://www.youtube.com/watch?v=bE7tO5lcg0Q",
+            "imagen": "https://i.ytimg.com/vi/2y8O8klXhfM/maxresdefault.jpg",
+            "video": "https://www.youtube.com/watch?v=2y8O8klXhfM&list=PL1sZAh2_s8OTeesWlY1u4-HbrprHvX6H-&index=2",
             "favorito": false
         },
         {
